@@ -8,21 +8,19 @@ refreshFrequency: 1000*60*30
 
 style: """
   color: #fff
-  top: 0
-  right: 0
  
   #meteo
-    top: 1170px
+    top: 1570px
     position: absolute
     z-index: -10000
   
   #pressure-yesterday
-    right: 2100px
     position: absolute
+    left: 0
     z-index: -10000
 
   #pressure-today
-    right: 1760px
+    left: 350px
     position: absolute
     z-index: -10000
     

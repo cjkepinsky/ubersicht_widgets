@@ -12,11 +12,11 @@ style: """
   color: #22AA22
   opacity: 0.7
   font-family: Helvetica Neue
-  right: 43%
+  right: 70%
   top: 97%
-  text-align: right
+  text-align: left
   background rgba(#000, .6)
-  padding 5px 20px 20px 20px
+  padding 5px 20px 5px 10px
   border-radius 5px
 
   h1

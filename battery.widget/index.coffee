@@ -12,7 +12,7 @@ style: """
   color: #22AA22
   opacity: 0.7
   font-family: Helvetica Neue
-  right: 80%
+  right: 90%
   top: 97%
   text-align: right
   background rgba(#000, .7)

@@ -17,10 +17,10 @@ style: """
   opacity: 0.7
   font-family: Helvetica Neue
   right: 0%
-  top: 93%
+  top: 94%
   text-align: right
   background rgba(#000, .6)
-  padding 5px 20px 5px 20px
+  padding 5px 10px 5px 10px
   border-radius 5px
 
   h1
